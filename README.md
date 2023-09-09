@@ -1,4 +1,4 @@
-![logo](https://github.com/Rajapandi-2713/Rajapandi-2713/blob/main/Git-Banner.png)
+![logo](https://github.com/Rajapandi-2713/Rajapandi-2713/blob/main/Git%20Banner.png)
 <br>
 <h1 align="center">Hi 👋, I'm RAJAPANDIAN P</h1>
 
