@@ -1,4 +1,5 @@
 ![logo](https://github.com/Rajapandi-2713/Rajapandi-2713/blob/main/Git-Banner.png)
+<br>
 <h1 align="center">Hi 👋, I'm RAJAPANDIAN</h1>
 <h3 align="center">A passionate Ui/Ux DESIGNER</h3>
 
