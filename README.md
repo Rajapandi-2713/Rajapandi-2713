@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm RAJAPANDIAN P</h1>
 <h3 align="center">A passionate Ui/Ux Designer</h3>
 
-<p align="right"> <img width="300" src="https://github.com/Rajapandi-2713/Rajapandi-2713/blob/main/7118028_3343971.svg" /> </p>
+
 <br><br><br>
 
 
