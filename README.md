@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 View my Portfolio [https://rapidknowledge.github.io/Designer-rp/](https://rapidknowledge.github.io/Designer-rp/)
+- 👨‍💻 View my Portfolio [https://knowledgechamber.github.io/rajapandian27/](https://knowledgechamber.github.io/rajapandian27/)
 
 - 💬 Ask me about **Ui/Ux Design, Figma**
 
