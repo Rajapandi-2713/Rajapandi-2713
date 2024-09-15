@@ -1,4 +1,4 @@
-![logo](https://github.com/Rajapandi-2713/Rajapandi-2713/blob/main/LinkedIn%20cover.png)
+![logo](https://github.com/Rajapandi-2713/Rajapandi-2713/blob/main/Behance%20Banner%20-%2001.png)
 
 <h1 align="center">Hi 👋, I'm RAJAPANDIAN P</h1>
 <h3 align="center">A passionate Ui/Ux Designer</h3>
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 View my Portfolio [https://knowledgechamber.github.io/rajapandian27/](https://knowledgechamber.github.io/rajapandian27/)
+- 👨‍💻 View my Portfolio [https://designsward.github.io/rajapandi/](https://designsward.github.io/rajapandi/)
 
 - 💬 Ask me about **Ui/Ux Design, Figma**
 
@@ -38,29 +38,6 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 <br>
 
-<h4 align="left">Frontend Skills:</h4>
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<br>
-
-<h4 align="left">Programming Skills:</h4>
-
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<br>
-
-<h4 align="left">Database Skills:</h4>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-
-<br>
-<h4 align="left">Backend Skills:</h4>
-
- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- 
  
  
  
